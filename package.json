@@ -2,7 +2,7 @@
   "name": "ckeditor5-gt-cleevio",
   "author": "CKSource",
   "description": "A custom CKEditor 5 build made by the GT FE team at Cleevio",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "private": true,
   "main": "./build/ckeditor.js",
   "devDependencies": {
